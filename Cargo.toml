@@ -1,0 +1,10 @@
+[package]
+name = "vim-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+crossterm = "0.29.0"
+once_cell = "1.21.3"
+ropey = "1.6.1"
